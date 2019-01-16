@@ -1,2 +1,2 @@
-# Multiple-Linear-Regression-Model-based-on-Dark-Channel-Prior
-The source code of Multiple Linear Regression Model based on Dark Channel Prior
+- The original code of DMask R-CNN can be found in [https://github.com/guanlongzhao/dehaze]
+- I modified run_DMask.py by adding two paths to access the two new images folder. And I have also modified some parts to make it run properly under my packages version.
